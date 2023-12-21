@@ -9,5 +9,11 @@ particular groups in certain region.
 Demographic data: The primary dataset used for this analysis is "demographic_dataset.csv" file, containing detailed information about the demograph of certain region.
 
 ### Tools
--  Excel - Data cleaning
+-  Excel - Data cleaning  [download_here]()
 -  Python - Data analysis and visualization
+
+### Data cleaning / preparation
+In the intial data preparation phase, we did the following task;
+1. Data loading and inspection
+2. Handling missing values
+3. Data cleaning and formatting
