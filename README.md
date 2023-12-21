@@ -6,4 +6,8 @@ This data analysis project aims to provide demographic insight on a particular r
 particular groups in certain region.
 
 ### Data Sources
-The demographic dataset was 
+Demographic data: The primary dataset used for this analysis is "demographic_dataset.csv" file, containing detailed information about the demograph of certain region.
+
+### Tools
+-  Excel - Data cleaning
+-  Python - Data analysis and visualization
