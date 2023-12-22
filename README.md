@@ -1,5 +1,13 @@
-## Demographic_Analysis using python
+# Demographic_Analysis using python
 
+## Table Of Content
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Data Analysis](#data-analysis)
+
+  
 ### Project Overview
 
 This data analysis project aims to provide demographic insight on a particular region. By analyzing various aspect of demographic data we seek to identify race, education, salary of 
@@ -13,7 +21,7 @@ Demographic data: The primary dataset used for this analysis is "freecodedata.tx
 -  Python - Data analysis and visualization
 -  Jupyter notebook - Used to code 
 
-### Data cleaning / preparation
+### Data Cleaning/Preparation
 In the intial data preparation phase, we did the following task;
 1. Data loading and inspection
 2. Handling missing values
@@ -111,3 +119,8 @@ demographic_analyzer()
 
 ### Recommendation
 
+
+
+
+
+### Limitation
